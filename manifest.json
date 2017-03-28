@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "github.com/m1ome/randstr": {
+            "branch": "master"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "memo": "",
+    "projects": [
+        {
+            "name": "github.com/m1ome/randstr",
+            "branch": "master",
+            "revision": "50e7f2dc02885b676dda38f82c5185e921660ade",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
